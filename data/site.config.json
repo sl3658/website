@@ -1,0 +1,164 @@
+{
+  "brand": "Lina S Lee Cards and Goods",
+  "shortName": "Lina S Lee",
+  "siteUrl": "https://www.example.com",
+  "email": "hello@example.com",
+  "instagram": "",
+  "newsletterUrl": "",
+  "city": "New York, NY",
+  "tagline": "Hand-painted cards, made in New York",
+  "homeIntro": "Greeting cards and small goods painted by hand by one New York artist, for birthdays, thank-yous and every little occasion in between.",
+  "aboutParagraphs": [
+    "Hi, I'm Lina S Lee, a New York artist who paints greeting cards by hand. Every card in the shop is painted in New York, one at a time, so no two are exactly alike.",
+    "My cards are built around the things people love to give each other: flowers for any day, fruit for fresh starts, cats and dogs for the ones who steal the show, and wine for the good nights worth a toast.",
+    "Besides cards, I make a small range of goods, including notebooks, t-shirts and scarves. Everything is made in small batches.",
+    "You can shop here, or find me in person at New York craft and maker markets. Check the Find Me in NYC page for upcoming dates."
+  ],
+  "faq": [
+    {
+      "q": "Are your cards really hand painted?",
+      "a": "Yes. Every card is painted by hand in New York by me, Lina S Lee."
+    },
+    {
+      "q": "Where can I buy your cards in person?",
+      "a": "At New York craft and maker markets. Upcoming dates and locations are listed on the Find Me in NYC page."
+    },
+    {
+      "q": "How do I order online?",
+      "a": "Choose a card or product, then use the buy button on its page. If a product has no buy button yet, send me a message and I'll set it up for you."
+    },
+    {
+      "q": "Can I ask for something custom?",
+      "a": "Yes, send me a note on the contact page with what you have in mind, such as a theme, an occasion, or a quantity for an event."
+    },
+    {
+      "q": "What size are the cards, and do they come with envelopes?",
+      "a": "Size, paper and envelope details are listed on each product page."
+    }
+  ],
+  "themes": [
+    {
+      "slug": "flowers",
+      "name": "Floral Cards",
+      "short": "Flowers",
+      "color": "#BFD3C0",
+      "text": "#1B1B17",
+      "blurb": "Sunflowers, lavender and other things in bloom.",
+      "seoTitle": "Hand-Painted Flower Cards, Made in NYC | Lina S Lee",
+      "metaDesc": "Handmade floral greeting cards, hand painted in New York by local artist Lina S Lee. Sunflower, lavender and everyday cards.",
+      "h1": "Hand-Painted Flower Cards",
+      "intro": [
+        "Sunflowers, lavender and more, painted by hand in New York. These cards are made for birthdays, thank-yous, get-wells and the days that just need flowers.",
+        "Each card is a handmade piece from a local New York artist, so you are sending something with a real brushstroke behind it."
+      ]
+    },
+    {
+      "slug": "fruits",
+      "name": "Fruit Cards",
+      "short": "Fruits",
+      "color": "#D9743B",
+      "text": "#1B1B17",
+      "blurb": "Juicy, bright and hand painted.",
+      "seoTitle": "Hand-Painted Fruit Cards, Made in NYC | Lina S Lee",
+      "metaDesc": "Handmade fruit greeting cards, hand painted in New York by local artist Lina S Lee. Birthday, thank you and everyday cards.",
+      "h1": "Hand-Painted Fruit Cards",
+      "intro": [
+        "Cherries, lemons, peaches and more, painted by hand in my New York studio. These cards are made for birthdays, thank-yous and any day that deserves something fresh.",
+        "Each card is a one-of-a-kind handmade piece from a local New York artist, so you are sending something with a real brushstroke behind it."
+      ]
+    },
+    {
+      "slug": "cats",
+      "name": "Cat Cards",
+      "short": "Cats",
+      "color": "#BCD6E8",
+      "text": "#1B1B17",
+      "blurb": "For the cat people.",
+      "seoTitle": "Hand-Painted Cat Cards, Made in NYC | Lina S Lee",
+      "metaDesc": "Handmade cat greeting cards, hand painted in New York by local artist Lina S Lee. Birthday and thank you cards for cat lovers.",
+      "h1": "Hand-Painted Cat Cards",
+      "intro": [
+        "Sleepy cats, curious cats and cats with opinions. These handmade cards are painted by hand in New York for the cat lovers in your life.",
+        "Send one for a birthday, a thank-you, or just because. Every card is made by a local artist, one at a time."
+      ]
+    },
+    {
+      "slug": "dogs",
+      "name": "Dog Cards",
+      "short": "Dogs",
+      "color": "#F2B8A0",
+      "text": "#1B1B17",
+      "blurb": "Good dogs, painted by hand.",
+      "seoTitle": "Hand-Painted Dog Cards, Made in NYC | Lina S Lee",
+      "metaDesc": "Handmade dog greeting cards, hand painted in New York by local artist Lina S Lee. Birthday and thank you cards for dog lovers.",
+      "h1": "Hand-Painted Dog Cards",
+      "intro": [
+        "Happy, goofy and loyal. These dog cards are hand painted in New York for the people whose best friend has four legs.",
+        "Perfect for birthdays, thank-yous and cheering someone up. Each card is made by a local New York artist."
+      ]
+    },
+    {
+      "slug": "wine",
+      "name": "Wine Cards",
+      "short": "Wine",
+      "color": "#8E2B2B",
+      "text": "#F7F0DC",
+      "blurb": "Cheers, hand painted.",
+      "seoTitle": "Hand-Painted Wine Cards, Made in NYC | Lina S Lee",
+      "metaDesc": "Handmade wine greeting cards, hand painted in New York by local artist Lina S Lee. Cheers, birthday and thank you cards for wine lovers.",
+      "h1": "Hand-Painted Wine Cards",
+      "intro": [
+        "For toasts, thank-yous and good nights in. These wine cards are painted by hand in New York for the friend who always brings the bottle.",
+        "Each card is made by a local New York artist and is ready to send for birthdays, hosting gifts and celebrations."
+      ]
+    }
+  ],
+  "goods": [
+    {
+      "slug": "notebooks",
+      "type": "notebook",
+      "name": "Hand-Painted Notebooks",
+      "short": "Notebooks",
+      "color": "#E3D8B6",
+      "text": "#1B1B17",
+      "blurb": "Small notebooks with painted covers.",
+      "seoTitle": "Hand-Painted Notebooks, Made in NYC | Lina S Lee",
+      "metaDesc": "Small notebooks with hand-painted covers, made in New York by local artist Lina S Lee.",
+      "h1": "Hand-Painted Notebooks",
+      "intro": [
+        "Small notebooks with covers painted by hand in New York. Carry one in a bag or pocket, or give one as a gift."
+      ]
+    },
+    {
+      "slug": "t-shirts",
+      "type": "tshirt",
+      "name": "T-Shirts",
+      "short": "T-shirts",
+      "color": "#BCD6E8",
+      "text": "#1B1B17",
+      "blurb": "Small-batch tees.",
+      "seoTitle": "T-Shirts by NYC Artist Lina S Lee",
+      "metaDesc": "Small-batch t-shirts by New York artist Lina S Lee.",
+      "h1": "T-Shirts",
+      "intro": [
+        "Small-batch t-shirts from a New York artist."
+      ]
+    },
+    {
+      "slug": "scarves",
+      "type": "scarf",
+      "name": "Scarves",
+      "short": "Scarves",
+      "color": "#F2B8A0",
+      "text": "#1B1B17",
+      "blurb": "Small-batch scarves.",
+      "seoTitle": "Scarves by NYC Artist Lina S Lee",
+      "metaDesc": "Small-batch scarves by New York artist Lina S Lee.",
+      "h1": "Scarves",
+      "intro": [
+        "Small-batch scarves from a New York artist."
+      ]
+    }
+  ],
+  "formspreeUrl": ""
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "slug": "sunflower-card",
+    "name": "Sunflower Card",
+    "type": "card",
+    "theme": "flowers",
+    "price": null,
+    "image": "images/sunflower-card.jpg",
+    "alt": "Hand-painted sunflower card on a teal background, held in a hand",
+    "description": "A sunflower with green leaves, painted by hand on a teal field. Made in New York.",
+    "paymentLink": "",
+    "soldOut": false,
+    "featured": true
+  },
+  {
+    "slug": "lavender-card",
+    "name": "Lavender Card",
+    "type": "card",
+    "theme": "flowers",
+    "price": null,
+    "image": "images/lavender-card.jpg",
+    "alt": "Hand-painted lavender card on white paper, held in a hand",
+    "description": "A sprig of lavender with long green leaves, painted by hand on white paper. Made in New York.",
+    "paymentLink": "",
+    "soldOut": false,
+    "featured": true
+  },
+  {
+    "slug": "leaf-notebook",
+    "name": "Leaf Pocket Notebook",
+    "type": "notebook",
+    "price": null,
+    "image": "images/leaf-notebook.jpg",
+    "alt": "Small kraft notebook with a hand-painted green leaf branch on an orange cover",
+    "description": "A small notebook with a leafy branch painted by hand on an orange cover. Made in New York.",
+    "paymentLink": "",
+    "soldOut": false,
+    "featured": true
+  }
+]
